@@ -1,0 +1,10 @@
+.dart_tool/
+.git/
+android/
+ios/
+macos/
+test/
+build/app/
+build/flutter_assets/
+build/ios/
+build/macos/
